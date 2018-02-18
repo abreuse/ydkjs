@@ -1,7 +1,7 @@
 This
 ====
 
-# Order
+## Order
 
     1. New binding          var bar = new foo()
     2. Explicit binding     var bar = foo.call(obj)
@@ -9,7 +9,7 @@ This
     4. Default binding      var bar = foo()
     
     
-# Exceptions
+## Exceptions
 
 If you pass `null` or `undefined` on `call`, `apply`, `bind`, like `foo.call(null)`,
 default binding applies.
