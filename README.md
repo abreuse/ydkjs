@@ -1,7 +1,7 @@
 You Don't Know JS - Examples
 ============================
 
-This repository refers to the book You Don't Know JS (i'm not the author of the book) :
+This repository refers to the book You Don't Know JS wrote by Kyle Simpson :
 
     https://github.com/getify/You-Dont-Know-JS
 
